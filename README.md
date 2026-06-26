@@ -35,6 +35,14 @@ Therefore, our main goal in the WRO is to demonstrate our problem-solving abilit
 
 ## Materials List
 
+- custom built car
+- rear wheel drive wheel base
+- metal gear servo
+- 10A mosfet motor driver
+- 7.4V 5200mah 25C Bettery
+- 3D printed mounting board
+- orin nano 8GB
+
 ## Team Photo
 
 ## Videos
