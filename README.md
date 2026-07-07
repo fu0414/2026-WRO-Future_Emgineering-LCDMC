@@ -31,6 +31,14 @@ We are students from the Tung Wah Group of Hospitals Lee Ching Tak Memorial Coll
 
 Therefore, our main goal in the WRO is to demonstrate our problem-solving abilities and teamwork. We aim to design and develop robots capable of solving real-world problems. We believe that only by constantly challenging ourselves can we achieve greater success. Every competition is a learning opportunity, and we will fully utilize these experiences to continuously improve and pursue excellence.
 
+These are our previous Github repositories for WRO Future Engineers
+
+2024:
+- https://github.com/fuqup571/WRO-Future-Engineering-LCDMC
+
+2025:
+- https://github.com/fu0414/2025-WRO-Future-Engineering-LCDMC
+
 ## Design plan
 
 ## Materials List
