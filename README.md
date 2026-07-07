@@ -48,7 +48,7 @@ These are our previous Github repositories for WRO Future Engineers
 - metal gear servo
 - 10A mosfet motor driver
 - 7.4V 5200mah 25C Bettery
-- 3D printed mounting board
+- 3D printed mounting board(you can find their STL files in the [models] section)
 - orin nano 8GB
 
 ## Team Photo
