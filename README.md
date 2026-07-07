@@ -80,7 +80,7 @@ This can increase torque.
 
 ## Materials List
 
-- custom built car
+- custom built car(WPL D12)
 - rear wheel drive wheel base
 - metal gear servo
 - 10A mosfet motor driver
