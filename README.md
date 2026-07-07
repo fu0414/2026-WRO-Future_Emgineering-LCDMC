@@ -6,6 +6,18 @@
 
 - [Design plan](#Design-plan)
 
+  - [Vehicle Chassis Selection](#Vehicle-Chassis-Selection)
+
+  - [What upgrades were made to WPL D12?](#What-upgrades-were-made-to-WPL-D12?)
+
+      - [Rear Suspension](#Rear-Suspension)
+   
+      - [Front Steering Servo](#Front-Steering-Servo)
+   
+      - [Brushless Motor](#Brushless-Motor)
+   
+      - [Mechanical Differential Rear Axle](#Mechanical-Differential-Rear-Axle)
+
   - [Obstacle Avoidance System Design](#Odatacle-Avoidance-System-Design)
  
   - [Velosity Controling System Design](#Velosity-Controling-System_Design)
@@ -42,6 +54,29 @@ These are our previous Github repositories for WRO Future Engineers
 - https://github.com/fu0414/2025-WRO-Future-Engineering-LCDMC
 
 ## Design plan
+
+### Vehicle Chassis Selection
+
+We used the WPL D12 as the chassis for this vehicle because there are more aftermarket parts available for the WPL D12 compared to other toy cars,thus offering greater modification potential.We also used the WPL D12 in 2024,and itsexcellent handling and extremely small turning radius led us to decide to use it again.
+
+### What upgrades were make to WPL D12?
+
+We made upgrades,including the rear suspension,front steering servo,and brushless motor,but most importantly,we upgraded the mechanical differential rear axle.
+
+#### Rear Suspension
+
+We adopted a stiffer rear suspension to withstand greater loads,allowing us to install more sensors or other tools.
+
+#### Front Steering Servo
+
+This increases torque,resulting in faster cornering speeds and reducing the risk of hitting obstacles or walls due to slow cornering speeds.
+
+#### Brushless Motor
+
+This can increase torque.
+
+#### Mechanical Differential Rear Axle
+
 
 ## Materials List
 
