@@ -51,7 +51,20 @@ These are our previous Github repositories for WRO Future Engineers
 - 3D printed mounting board(you can find their STL files in the [models] section)
 - orin nano 8GB
 
-## Car Photo
+## Vehicle Photo
+
+top
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/v-photo/WhatsApp%20Image%202026-07-08%20at%2012.26.43%20AM.jpeg)
+bottom
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/v-photo/WhatsApp%20Image%202026-07-08%20at%2012.26.44%20AM.jpeg)
+forward
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/v-photo/WhatsApp%20Image%202026-07-08%20at%2012.26.44%20AM%20(2).jpeg)
+back
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/v-photo/WhatsApp%20Image%202026-07-08%20at%2012.26.44%20AM%20(1).jpeg)
+left
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/v-photo/WhatsApp%20Image%202026-07-08%20at%2012.26.46%20AM.jpeg)
+right
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/v-photo/WhatsApp%20Image%202026-07-08%20at%2012.26.45%20AM.jpeg)
 
 ## Team Photo
 
