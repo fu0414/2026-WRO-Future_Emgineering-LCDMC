@@ -14,6 +14,8 @@
  
  - [Materials List](#Materials-List)
 
+ - [Vehicle Photo](#Vehicle-Photo)
+
  - [Team Photo](#Team-Photo)
 
  - [Videos](#Videos)
