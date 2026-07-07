@@ -1,4 +1,4 @@
-# 2026-WRO-Future_Emgineering-LCDMC
+# 2026-WRO-Future_Emgineers-LCDMC
 
 ## contents
 
