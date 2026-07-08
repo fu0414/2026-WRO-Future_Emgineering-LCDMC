@@ -129,6 +129,8 @@ right
 
 ## Team Photo
 
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/t-photo/WhatsApp%20Image%202026-07-08%20at%206.42.17%20PM.jpeg)
+
 ## Videos
 
 ## Reference link
