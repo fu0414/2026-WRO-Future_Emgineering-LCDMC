@@ -133,4 +133,8 @@ right
 
 ## Videos
 
+Counter-clockwise obstacle avoidance(complete process)
+
+https://www.youtube.com/watch?v=52Vih6Od3e4
+
 ## Reference link
