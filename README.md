@@ -8,7 +8,7 @@
 
   - [Vehicle Chassis Selection](#Vehicle-Chassis-Selection)
 
-  - [What upgrades were made to WPL D12?](#What-upgrades-were-made-to-WPL-D12?)
+  - [What upgrades were make to WPL D12?](#What-upgrades-were-made-to-WPL-D12?)
 
       - [Rear Suspension](#Rear-Suspension)
    
