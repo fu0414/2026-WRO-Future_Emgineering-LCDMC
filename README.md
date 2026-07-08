@@ -38,6 +38,10 @@
   
    - [Counterclockwise,without obstruction](#Counterclockwise,without-obstruction)
   
+   - [Clockwise,have obstacles](#Clockwise,have-obstacles)
+  
+   - [Counterclockwise,have obstacles](#Counterclockwise,have-obstacles)
+  
 - [Reference link](#Reference-link)
 
 
@@ -143,5 +147,11 @@ right
 
 ### Counterclockwise,without obstruction
 - https://www.youtube.com/watch?v=CtjAY1_Tr7o
+
+### Clockwise,have obstacles
+- https://www.youtube.com/watch?v=bco2o4wXkVQ
+
+### Counterclockwise,have obstacles
+- https://www.youtube.com/watch?v=CQ-CMoyexY8
 
 ## Reference link
