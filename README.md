@@ -18,7 +18,7 @@
    
       - [Mechanical Differential Rear Axle](#Mechanical-Differential-Rear-Axle)
 
-  - [Obstacle Avoidance System Design](#Odatacle-Avoidance-System-Design)
+  - [Obstacle Avoidance System Design](#Obsatacle-Avoidance-System-Design)
  
   - [Velosity Controling System Design](#Velosity-Controling-System_Design)
  
@@ -79,6 +79,29 @@ This can increase torque.
 
 In 2024 and 2025, our vehicles lacked a mechanical differential rear axle. This caused a jamming effect when the front steering angle was too large, as both rear wheels were steering in the same direction. This year, however, we've installed a mechanical differential rear axle, allowing the two wheels to travel at different speeds, eliminating the jamming caused by excessive front steering angles.
 
+## Obstacle Avoidance System Design
+
+Use a ResNet18 to input camera image and generate steering angle. The ResNet18 AI model is trained with pictures that took with on board IMX219 camera and labelled manually to teach the model to turn correctly in different situation
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/23140565-9eb8-437e-823f-192dfa11003c" />
+After that we build a model of yolo to tell Orin Nneo what the object is and it can give action
+
+A YOLO11n model is used to get the boundary box and label of the red/green obstacle. Once the yolo model recognized the obstacle and the obstacle is in range, the program will override ResNet18 model steering output, control car's steering base on obstacle's color and position.
+
+In code,we make use of yolo model to identify object with different colour and follow the flow show in figure1.1
+<img width="1728" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bee869b-9a18-42a4-988b-1bf90bd7021d" />
+
+### Velosity Controling System Design
+At first,we set a throttle value at Orin Neno.We use a separate circuit board to run the PID programme to control and stablize the speed of car to allow us to stop the car at sutible palce on the track through counting the starting time
+
+Here is the graphic shown of how each part of PID avoid the stablize of speed of car
+
+![PID_Compensation_Animated](https://github.com/user-attachments/assets/0fff1022-56bb-44ba-ae9f-740df99037f7)
+
+### Turning System Design
+We make use of road following model building method of jetson neno.
+
+At first,we taking some image(around200) and use the different X coordinates repercent the turning (small x-coordinate mean turn left and large x-coordinate mean turn right)
+![WhatsApp 图像2025-07-02于16 13 12_3bd753ba](https://github.com/user-attachments/assets/b7b7f950-68ac-4f28-852c-f695385f53c6)
 ## Materials List
 
 - custom built car(WPL D12)
