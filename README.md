@@ -79,7 +79,7 @@ This can increase torque.
 
 In 2024 and 2025, our vehicles lacked a mechanical differential rear axle. This caused a jamming effect when the front steering angle was too large, as both rear wheels were steering in the same direction. This year, however, we've installed a mechanical differential rear axle, allowing the two wheels to travel at different speeds, eliminating the jamming caused by excessive front steering angles.
 
-## Obstacle Avoidance System Design
+### Obstacle Avoidance System Design
 
 Use a ResNet18 to input camera image and generate steering angle. The ResNet18 AI model is trained with pictures that took with on board IMX219 camera and labelled manually to teach the model to turn correctly in different situation
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/23140565-9eb8-437e-823f-192dfa11003c" />
