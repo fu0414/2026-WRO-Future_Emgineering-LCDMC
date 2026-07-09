@@ -117,6 +117,7 @@ At first,we taking some image(around200) and use the different X coordinates rep
 
 ## Power Architecture
 
+![image](https://github.com/fu0414/2026-WRO-Future_Emgineering-LCDMC/blob/main/schemes/WhatsApp%20Image%202026-07-09%20at%2010.43.34%20AM.jpeg)
 
 ## Materials List
 
