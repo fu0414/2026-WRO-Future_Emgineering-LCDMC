@@ -25,7 +25,9 @@
   - [Velosity Controling System Design](#Velosity-Controling-System_Design)
  
   - [Turning System Design](#Turning-System-Design)
- 
+
+ - [Power Architecture](#Power-Architecture)
+  
  - [Materials List](#Materials-List)
 
  - [Vehicle Photo](#Vehicle-Photo)
